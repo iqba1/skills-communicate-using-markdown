@@ -1,6 +1,10 @@
-# TEST1
-## TEST2
-###### TEST6
+# H1
+## H2
+### H3
+#### H4
+##### H5
+###### H6
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-Add 3 word with different header size
+Two words
